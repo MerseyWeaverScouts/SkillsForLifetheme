@@ -1,1 +1,1 @@
-# SkillsForLifetheme
+# SkillsForLife Wordpress Theme
